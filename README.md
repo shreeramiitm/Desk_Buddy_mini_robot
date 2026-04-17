@@ -4,6 +4,13 @@
 
 An open-source ESP32-based interactive desk robot that brings personality and functionality to your workspace.
 
+
+<img width="333" height="338" alt="Screenshot 2026-04-18 at 12 00 14 AM" src="https://github.com/user-attachments/assets/3ae385a0-d3d6-4310-8794-dda757ff0a83" />
+
+
+
+
+
 ---
 
 ## 📌 Overview
@@ -38,6 +45,10 @@ It displays animated expressions, responds to touch input, plays audio, and conn
 
 - 3.7V Li-ion Battery  
 
+<img width="609" height="335" alt="Screenshot 2026-04-18 at 12 00 46 AM" src="https://github.com/user-attachments/assets/c330bdbf-cc58-4add-860d-05eec3e9306a" />
+
+
+
 ---
 
 ## 💻 Software Stack
@@ -51,6 +62,18 @@ It displays animated expressions, responds to touch input, plays audio, and conn
 - Chronos Mobile App  
 
 ---
+##DEMO
+
+- native interaction
+  
+https://github.com/user-attachments/assets/b363d59f-6dc4-4438-93e6-c2bfed86bf07
+
+- phone connection via chronos
+
+https://github.com/user-attachments/assets/3acbb9e3-8b8e-41dc-92c4-9b2126409961
+
+
+
 
 ## 🚀 Getting Started
 
