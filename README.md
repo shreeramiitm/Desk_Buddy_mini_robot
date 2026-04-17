@@ -1,57 +1,61 @@
-# 🤖 Mochi Desk Companion  
+# 🤖 Mochi Desk Companion
+## name: Shreeram Hirani (24EC428)
+## Sub: Idea To Product(201PW)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/mochi-desk-companion)
-![GitHub stars](https://img.shields.io/github/stars/your-username/mochi-desk-companion?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/mochi-desk-companion?style=social)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-> ✨ An interactive ESP32-based desk robot with personality, animations, and IoT connectivity.
-
----
-
-## 🎥 Demo Preview
-
-<p align="center">
-  <img src="docs/demo.gif" alt="Mochi Demo" width="250"/>
-</p>
-
-> 📌 *Add your GIF inside `/docs/demo.gif`*
-
----
-
-## 📸 Project Preview
-
-<p align="center">
-  <img src="docs/mochi1.jpg" width="200"/>
-  <img src="docs/mochi2.jpg" width="200"/>
-</p>
+An open-source ESP32-based interactive desk robot that brings personality and functionality to your workspace.
 
 ---
 
 ## 📌 Overview
 
-Mochi is a compact **ESP32-C3 powered IoT desk companion** that displays animated expressions, reacts to touch, plays sounds, and syncs with your phone via Bluetooth.
-
-Designed for **students, makers, and embedded engineers**, it combines hardware + software into a fun interactive device.
+Mochi is a compact IoT desk companion powered by the ESP32-C3 microcontroller.  
+It displays animated expressions, responds to touch input, plays audio, and connects to a mobile app via Bluetooth.
 
 ---
 
 ## ✨ Features
 
-- 🎭 80+ expressive OLED animations  
-- 🔊 Smart audio alerts via buzzer  
-- 📱 BLE mobile connectivity  
-- 👆 Touch-based interaction  
-- 🌐 Web-based firmware flashing  
-- ⚡ Real-time notifications & syncing  
+- 🎭 80+ animated OLED expressions  
+- 🔊 Audio feedback using buzzer  
+- 📱 Bluetooth (BLE) mobile connectivity  
+- 👆 Touch sensor interaction  
+- 🌐 Web-based firmware control  
+- 🧭 Navigation & notification support  
 
 ---
 
-## 🧠 System Architecture
+## 🛠️ Hardware Requirements
 
-```text
-Mobile App (BLE)
-        ↓
-   ESP32-C3 MCU
-        ↓
- OLED Display + Buzzer
+- ESP32-C3 Mini  
+
+- OLED Display (0.96" / 1.3")  
+
+- TTP223 Touch Sensor  
+
+- Piezo Buzzer  
+
+- TP4056 Charging Module  
+
+- 3.7V Li-ion Battery  
+
+---
+
+## 💻 Software Stack
+
+- Arduino IDE / PlatformIO (C++)  
+
+- ESP32 Board Support  
+
+- Web Serial API  
+
+- Chronos Mobile App  
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone Repository
+
+```bash
+
+git clone (https://github.com/shreeramiitm/Desk_Buddy_mini_robot)
