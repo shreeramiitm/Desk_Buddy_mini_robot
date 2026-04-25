@@ -1,5 +1,5 @@
 # 🤖 Mochi Desk Companion
-## name: Shreeram Hirani (24EC428)
+## Name: Shreeram Hirani (24EC428)
 ## Sub: Idea To Product(201PW)
 
 An open-source ESP32-based interactive desk robot that brings personality and functionality to your workspace.
